@@ -1,7 +1,7 @@
 ecommerce
 =========
 
-**Note: This project is no longer being maintained.**
+**Note: This project is no longer being maintained.Implemention in cod(cash on delivery)only**
 
 A PHP e-commerce web application.
 
